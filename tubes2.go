@@ -1,3 +1,5 @@
+// Komentar tambahan untuk tugas Wawasan Global TIK
+
 package main
 
 import "fmt"
